@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/bgourley1/ContosoAir/_apis/build/status/bgourley15.ContosoAir?branchName=master)](https://dev.azure.com/bgourley1/ContosoAir/_build/latest?definitionId=22&branchName=master)
 
 # Microsoft.Github CI Demo
 
